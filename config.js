@@ -22,7 +22,7 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Em đồng ý chứ",                                    // First interaction
+            text: "Em đồng ý làm chú chim nhỏ của anh chứ ?",                                    // First interaction
             yesBtn: "Dạ",                                             // Text for "Yes" button
             noBtn: "Đéo",                                               // Text for "No" button
             secretAnswer: "Còn chờ gì nữa mà không lao vào em đi anh"           // Secret hover message
